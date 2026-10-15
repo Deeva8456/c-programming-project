@@ -1,1 +1,2 @@
 # c-programming-project
+The project is to develop a console-based card game in C using structures, enumerations, and dynamic memory allocation. The program must create and shuffle card decks, deal cards to two players, sort their hands, and simulate turns where players match cards by suit or rank until one player runs out of cards. The project also requires modular code and complete Doxygen documentation.
