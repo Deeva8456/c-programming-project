@@ -13,7 +13,7 @@
  *  - deckSize
  *  - isDeckEmpty
  *  - deckToArray
- *@author DEEVA.MOHAMED AND SEAN.CARROLL
+ *@author DEEVA.MOHAMED 
  * @date 26/11/2025
  */
 
