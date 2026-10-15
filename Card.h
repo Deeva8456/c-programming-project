@@ -5,7 +5,7 @@
 *
 * This header provides the fundamental data types representing a single
 * playing card. It is used by all modules that manipulate cards.
-*  @author ABEL ABRAHAM.VALIYAKALAYIL
+*  @author Deeva Mohamed
  * @date 26/11/25
 */
 #ifndef CARD_H
