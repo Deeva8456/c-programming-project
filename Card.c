@@ -4,7 +4,7 @@
  * Provides string conversion, printing, matching rules, and comparison
  * functions. These utilities are used throughout the card game and
  * CardDeck ADT.
- *   @author  ABEL ABRAHAM.VALIYAKALAYIL
+ *   @author  Deeva Mohamed
  * @date 26/11/25
 
  */
@@ -22,7 +22,7 @@ static const char* SUIT_NAMES[] = {
     "Diamond"
 };
 
-// Rank names; indices 0–1 are unused to align with rank integer values 
+// Rank names; indices 0â€“1 are unused to align with rank integer values 
 static const char* RANK_NAMES[] = {
     NULL,       // index 0 unused 
     NULL,       // index 1 unused 
