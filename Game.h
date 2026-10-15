@@ -9,7 +9,7 @@
  *  - turn-taking
  *  - reshuffling played pile back to hidden deck
  *  - determining a winner
- * * @author DARRAGH.O'SULLIVAN
+ * * @author Deeva Mohamed
  * @date 27/11/2025
  */
 
