@@ -13,7 +13,7 @@
  * The game works with the dynamic CardDeck type (singly-linked list).
  * Each player draws or plays depending on whether they have a matching card.
  *
- * @author DARRAGH.O'SULLIVAN & ABEL ABRAHAM.VALIYAKALAYIL
+ * @author Deeva Mohamed
  * @date 27/11/2025
  */
 
