@@ -8,7 +8,7 @@
  *
  * Used by main.c and carddeck.c to implement the card game.
  *
- * @author DEEVA.MOHAMED AND SEAN.CARROLL
+ * @author DEEVA.MOHAMED 
  * @date 2025-02-14
  */
 
