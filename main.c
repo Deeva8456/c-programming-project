@@ -5,8 +5,8 @@
  * This file handles only user input and starts the game logic.
  * All gameplay, card handling, and rules are implemented in game.c/h.
  *
- * @author SEAN.CARROLL
- * @date 26/11/2015
+ * @author Deeva Mohamed
+ * @date 26/11/2025
  */
 
 #include <stdio.h>
